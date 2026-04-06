@@ -52,7 +52,7 @@ export default function App() {
               className="flex items-center gap-2 text-base px-6 py-5"
             >
               <a
-                href="https://github.com/Template-React/template-ui"
+                href="https://github.com/orgs/Template-React/repositories"
                 target="_blank"
                 rel="noopener noreferrer"
               >
